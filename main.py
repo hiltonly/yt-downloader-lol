@@ -9,7 +9,6 @@ def update():
         Updater(YoutubeDL).update()
     except Exception as e:
         print(e)
-
 if __name__ == "__main__":
     update()
     ft.run(main=main, assets_dir='assets')
