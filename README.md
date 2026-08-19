@@ -1,5 +1,4 @@
 # yt-downloader-lol
 First project (ever) on python
-This shit might not work idk why
-
-SGGSG;FGN;KFG
+Ik code is prob shit 
+als might not wokr
