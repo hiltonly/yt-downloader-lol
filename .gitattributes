@@ -2,5 +2,9 @@ build/** linguist-detectable=false
 dist/** linguist-detectable=false
 node_modules/** linguist-detectable=false
 
+*.js linguist-vendored
+*.tcl linguist-vendored
+assets/* linguist-vendored
+
 *.tcl linguist-detectable=false
 *.py linguist-language=Python
